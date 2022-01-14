@@ -1,0 +1,47 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img {
+    width: 50px;
+    height: 50px;
+}
+#p1 {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: dotted;
+    border-color:rgb(243, 91, 74);
+    padding: 10px;
+}
+#p2 {
+    position: absolute;
+    top: 600px;
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 2px 2px #000;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#p3 {
+    font-size: 24px;
+    color: rgb(255, 158, 47);
+}
+#antibes {
+    position: relative;
+    text-align: center;
+}
+#antibes-photo {
+    border-radius: 10px;
+    margin: 20px;
+    width: auto;
+    height: auto;
+}
+#provence {
+    float: left;
+    width: 900px;
+    height: 300px;
+    object-fit: cover;
+    padding-right: 30px;
+    margin: 20px;
+}
